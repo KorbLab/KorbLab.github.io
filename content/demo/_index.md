@@ -12,5 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-
-<iframe height=“800” width=“100%” frameborder=“no” src=“https://antoinesoetewey.shinyapps.io/statistics-201/”> </iframe>
